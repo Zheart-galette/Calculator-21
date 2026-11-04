@@ -261,7 +261,7 @@
                 android:textColor="#ffffff"
                 android:backgroundTint="#737373"/>
             <Button
-                android:id="@+id/btnequal"
+                android:id="@+id/btnEqual"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
