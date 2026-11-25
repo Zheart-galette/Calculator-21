@@ -44,8 +44,8 @@
                 android:layout_margin="4dp"
                 android:textSize="20sp"
                 android:textColor="#ffffff"
-                android:backgroundTint="#737373"/>
-         <Button
+                android:backgroundTint="#5C70EF"/>
+            <Button
                 android:id="@+id/btnDel"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
@@ -54,7 +54,7 @@
                 android:layout_margin="4dp"
                 android:textSize="20sp"
                 android:textColor="#ffffff"
-                android:backgroundTint="#737373"/>
+                android:backgroundTint="#5C70EF"/>
             <Button
                 android:id="@+id/btnMod"
                 android:layout_width="0dp"
@@ -64,9 +64,9 @@
                 android:layout_margin="4dp"
                 android:textSize="20sp"
                 android:textColor="#ffffff"
-                android:backgroundTint="#737373"/>
+                android:backgroundTint="#5C70EF"/>
             <Button
-                android:id="@+id/btnDiv"
+                android:id="@+id/btnDivide"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
@@ -74,7 +74,7 @@
                 android:text="/"
                 android:layout_margin="4dp"
                 android:textColor="#ffffff"
-                android:backgroundTint="#737373"/>
+                android:backgroundTint="#B0A5F2"/>
         </LinearLayout>
 
         <!--แถวที่2-->
@@ -123,7 +123,7 @@
                 android:layout_margin="4dp"
                 android:textSize="20sp"
                 android:textColor="#ffffff"
-                android:backgroundTint="#737373"/>
+                android:backgroundTint="#B0A5F2"/>
         </LinearLayout>
 
         <!--แถวที่3-->
@@ -164,7 +164,7 @@
                 android:textColor="#ffffff"
                 android:backgroundTint="#737373"/>
             <Button
-                android:id="@+id/btnMi"
+                android:id="@+id/btnMinus"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
@@ -172,7 +172,7 @@
                 android:layout_margin="4dp"
                 android:textSize="20sp"
                 android:textColor="#ffffff"
-                android:backgroundTint="#737373"/>
+                android:backgroundTint="#B0A5F2"/>
         </LinearLayout>
         <!--แถวที่4-->
         <LinearLayout
@@ -220,7 +220,7 @@
                 android:layout_margin="4dp"
                 android:textColor="#ffffff"
                 android:textSize="20sp"
-                android:backgroundTint="#737373"/>
+                android:backgroundTint="#B0A5F2"/>
         </LinearLayout>
         <!--แถวที่5-->
         <LinearLayout
@@ -269,7 +269,7 @@
                 android:layout_margin="4dp"
                 android:textSize="20sp"
                 android:textColor="#ffffff"
-                android:backgroundTint="#737373"/>
+                android:backgroundTint="#B0A5F2"/>
         </LinearLayout>
     </LinearLayout>
 </LinearLayout>
